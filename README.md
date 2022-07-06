@@ -1,2 +1,4 @@
 # html-bootstrap-portfolio
-A complex page created using bootstrap
+    Complex static page created using bootstrap.
+    
+
